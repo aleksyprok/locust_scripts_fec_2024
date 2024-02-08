@@ -1,1 +1,5 @@
 input_files/SPP-001-1.cdb.locust filter=lfs diff=lfs merge=lfs -text
+**/FINAL_STATE*.dat filter=lfs diff=lfs merge=lfs -text
+input_files/SPR-045-16.eqdsk filter=lfs diff=lfs merge=lfs -text
+input_files/SPP-001.dat filter=lfs diff=lfs merge=lfs -text
+input_files/profiles_SPR-045-16.CDF filter=lfs diff=lfs merge=lfs -text
